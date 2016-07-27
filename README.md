@@ -18,3 +18,12 @@
 ![](matrix5.PNG)
 ![](error.PNG)
 ![](exit.PNG)
+
+Additional matrix properties
+
+![](matrix2.1.PNG)
+![](matrix2.2.PNG)
+![](matrix2.3.PNG)
+![](matrix2.4.PNG)
+![](matrix2.5.PNG)
+
